@@ -7,3 +7,9 @@ I had five different labs that I needed to do:
 3. Shell lab
 4. Shell lab
 5. Malloc lab
+
+
+
+Hints: 
+Lab 1 : Preliminary Lab
+       This lab's purpose is to setup the virtual environment that you guys are going to be working off of
